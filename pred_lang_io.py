@@ -11,7 +11,9 @@ warnings.warn = warn
 extension = {
              "cpp": "C++",
              "py": "Python",
-             "java": "Java"
+             "java": "Java",
+             "php":"php",
+             "cs":"cs"
             }
 
 def predict(file):
